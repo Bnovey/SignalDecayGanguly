@@ -1,0 +1,15 @@
+# Data files
+long_data.pkl
+*.pkl
+
+import_data.ipynb
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
